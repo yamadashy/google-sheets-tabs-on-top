@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "スプレッドシート拡張",
     "description": "スプレッドシートのタブを上に表示する拡張機能",
-    "version": "0.1.0",
+    "version": "0.1.1",
 	"icons": {
 		"128": "img/icon128.png"
 	},

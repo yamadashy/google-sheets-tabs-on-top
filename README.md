@@ -10,7 +10,7 @@
 
 * ダウンロード
     *   以下のリンクをクリックしてダウンロード  
-        [spreadsheet-extention-0.1.0.crx](/download/attachments/12824215/spreadsheet-extention-0.1.0.crx?version=1&modificationDate=1510193960000&api=v2)
+        [spreadsheet-extention-0.1.1.crx](https://drive.google.com/open?id=0B9lL2vGR_TI0TmdWZVc4VWZYOTA)
 * インストール
     1.  Chromeの拡張機能のページを開く  
         ![](https://confluence.colopl.co.jp/download/attachments/13069833/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202017-11-09%2011.12.52.png?version=1&modificationDate=1510193580000&api=v2 "山田 和毅 > コンフル記事をQiita用のマークダウンに変換するChrome拡張 > スクリーンショット 2017-11-09 11.12.52.png")
