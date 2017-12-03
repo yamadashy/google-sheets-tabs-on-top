@@ -1,8 +1,9 @@
 {
+	"author": "yamada.kazuki.1198",
     "manifest_version": 2,
     "name": "スプレッドシート拡張",
     "description": "スプレッドシートのタブを上に表示する拡張機能",
-    "version": "0.1.1",
+    "version": "0.1.2",
 	"icons": {
 		"128": "img/icon128.png"
 	},
