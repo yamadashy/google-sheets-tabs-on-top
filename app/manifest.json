@@ -15,7 +15,7 @@
     "content_scripts": [
         {
             "matches": ["https://docs.google.com/spreadsheets/*/*"],
-            "js": ["./js/content.js"],
+            "js": ["./scripts/content.js"],
             "run_at": "document_idle"
         }
     ]
