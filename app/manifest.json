@@ -1,22 +1,20 @@
 {
-    "manifest_version": 2,
-    "name": "__MSG_appName__",
-    "short_name": "__MSG_appShortName__",
-    "description": "__MSG_appDescription__",
-    "version": "1.0.0",
-    "default_locale": "en",
-    "author": "Kazuki Yamada",
-    "icons": {
-        "16": "images/icon-16.png",
-        "48": "images/icon-48.png",
-        "128": "images/icon-128.png"
-    },
-    "minimum_chrome_version": "49.0",
-    "content_scripts": [
-        {
-            "matches": ["https://docs.google.com/spreadsheets/*/*"],
-            "js": ["./scripts/content.js"],
-            "run_at": "document_idle"
-        }
-    ]
+  "manifest_version": 2,
+  "name": "__MSG_appName__",
+  "short_name": "__MSG_appShortName__",
+  "description": "__MSG_appDescription__",
+  "version": "1.0.0",
+  "default_locale": "en",
+  "author": "Kazuki Yamada",
+  "icons": {
+    "16": "images/icon-16.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
+  "minimum_chrome_version": "49.0",
+  "content_scripts": [{
+    "matches": ["https://docs.google.com/spreadsheets/*/*"],
+    "js": ["./scripts/content.js"],
+    "run_at": "document_idle"
+  }]
 }

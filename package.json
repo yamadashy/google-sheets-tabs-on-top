@@ -1,15 +1,14 @@
 {
-    "name": "sheets-tabs-on-top",
-    "version": "1.0.0",
-    "description": "Move Google Sheets tabs on top",
-    "scripts": {
-        "dev": "webextension-toolbox dev",
-        "build": "webextension-toolbox build"
-    },
-    "license": "MIT",
-    "dependencies": {
-    },
-    "devDependencies": {
-        "webextension-toolbox": "latest"
-    }
+  "name": "sheets-tabs-on-top",
+  "version": "1.0.0",
+  "description": "Move Google Sheets tabs on top",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
 }
