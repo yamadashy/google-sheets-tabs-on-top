@@ -1,14 +1,10 @@
-# スプレッドシートのタブを上に表示
-
-以下のように表示されます。
-
-マウスの動きが減るので地味に便利です。
+# Move Google Sheets tabs on top.
 
 ![](./promo/Screenshot_1280x800.png)
 
-## インストール 
+## Install
 
-[スプレッドシート拡張 - Chrome ウェブストア](https://chrome.google.com/webstore/detail/sheets-tabs-on-top/lbhlhhckfpdpafckdiklcbamkmogjdjc)
+[Google Sheets tabs on top - Chrome Web Store](https://chrome.google.com/webstore/detail/sheets-tabs-on-top/lbhlhhckfpdpafckdiklcbamkmogjdjc)
 
 # Dev
 ## Install

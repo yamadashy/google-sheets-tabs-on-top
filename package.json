@@ -1,5 +1,5 @@
 {
-  "name": "sheets-tabs-on-top",
+  "name": "google-sheets-tabs-on-top",
   "version": "1.0.0",
   "description": "Move Google Sheets tabs on top",
   "scripts": {

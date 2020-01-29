@@ -3,12 +3,12 @@
     "message": "スプレッドシートのタブを上に表示"
   },
   "appShortName": {
-    "message": "sheets-tabs-on-top"
+    "message": "google-sheets-tabs-on-top"
   },
   "appDescription": {
     "message": "スプレッドシートのタブを上に表示する拡張機能"
   },
   "browserActionTitle": {
-    "message": "Sheets Tabs on Top"
+    "message": "Google Sheets Tabs on Top"
   }
 }
