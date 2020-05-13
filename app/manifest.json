@@ -17,9 +17,6 @@
       "matches": [
         "https://docs.google.com/spreadsheets/*/*"
       ],
-      "css": [
-        "styles/content.css"
-      ],
       "js": [
         "scripts/content.js"
       ],
