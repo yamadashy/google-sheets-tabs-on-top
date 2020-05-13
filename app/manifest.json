@@ -27,6 +27,11 @@
       "all_frames": true
     }
   ],
+  "background": {
+    "scripts": [
+      "scripts/background.js"
+    ]
+  },
   "permissions": [
     "https://docs.google.com/spreadsheets/*/*"
   ]
