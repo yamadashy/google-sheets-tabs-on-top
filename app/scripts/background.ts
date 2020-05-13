@@ -10,7 +10,7 @@ chrome.tabs.query({}, (tabs) => {
 
     chrome.tabs.executeScript(tab.id, {
       file: 'scripts/content.js',
-      runAt: 'document_idle',
+      runAt: 'document_start',
       allFrames: true
     });
   }

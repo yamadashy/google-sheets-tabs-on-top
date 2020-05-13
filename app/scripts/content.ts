@@ -18,7 +18,7 @@ class SheetTabsMover {
           return;
         }
 
-        setTimeout(checkTabsLoop, 100);
+        setTimeout(checkTabsLoop, 50);
       }
 
       checkTabsLoop();
