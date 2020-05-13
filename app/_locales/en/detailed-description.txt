@@ -1,0 +1,4 @@
+Move Google Sheets Tabs on top
+
+This extension does not send the user's data anywhere. It's also completely open source.
+Source: https://github.com/yamadashy/sheets-tabs-on-top-extension
