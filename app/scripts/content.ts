@@ -3,7 +3,7 @@ const EDITOR_CONTAINER_ID = 'docs-editor-container';
 
 class SheetTabsMover {
   waitRenderTabs() {
-    return new Promise((resolve, reject) => {
+    return new Promise((resolve) => {
       const loopStartTime = Date.now();
 
       const checkTabsLoop = () => {
@@ -28,7 +28,7 @@ class SheetTabsMover {
   moveToTop() {
     const gridBottomBar = document.getElementById(GRID_BOTTOM_BAR_ID);
     const editorContainer = document.getElementById(EDITOR_CONTAINER_ID);
-    gridBottomBar.style.zIndex = 0;
+    gridBottomBar.style.zIndex = '0';
     document.body.insertBefore(gridBottomBar, editorContainer);
   }
 }
