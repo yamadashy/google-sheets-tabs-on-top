@@ -42,6 +42,7 @@
     "@typescript-eslint/parser": "^2.0.0",
     "babel-loader": "^8.0.6",
     "eslint": "^6.3.0",
+    "fork-ts-checker-webpack-plugin": "^4.1.4",
     "typescript": "^3.7.5",
     "webextension-toolbox": "^3.0.0",
     "webpack-bundle-analyzer": "^3.4.1"
