@@ -28,8 +28,11 @@ class SheetTabsMover {
   moveToTop(): void {
     const gridBottomBar = document.getElementById(GRID_BOTTOM_BAR_ID);
     const editorContainer = document.getElementById(EDITOR_CONTAINER_ID);
-    gridBottomBar.style.zIndex = '0';
-    document.body.insertBefore(gridBottomBar, editorContainer);
+
+    if (gridBottomBar && editorContainer) {
+      gridBottomBar.style.zIndex = '0';
+      document.body.insertBefore(gridBottomBar, editorContainer);
+    }
   }
 }
 
