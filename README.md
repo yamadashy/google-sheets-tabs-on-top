@@ -4,9 +4,6 @@
 
 ## Install
 
-## Install
-
-
 - Chrome: [Google Sheets tabs on top - Chrome Web Store](https://chrome.google.com/webstore/detail/sheets-tabs-on-top/lbhlhhckfpdpafckdiklcbamkmogjdjc)
 - Firefox: [Google Sheets tabs on top – Firefox Add-ons](https://addons.mozilla.org/firefox/addon/google-sheets-tabs-on-top/)
 - Opera: [Google Sheets tabs on top extension - Opera add-ons](https://addons.opera.com/extensions/details/google-sheets-tabs-on-top/)
