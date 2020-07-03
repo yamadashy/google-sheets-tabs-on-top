@@ -1,4 +1,4 @@
-// Update extension content for slack tabs
+// Update extension content for Google Sheets tabs
 chrome.tabs.query({}, (tabs) => {
   for (const tabKey in tabs) {
     const tab = tabs[tabKey];
