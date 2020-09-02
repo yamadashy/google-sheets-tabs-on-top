@@ -8,6 +8,11 @@ chrome.tabs.query({}, (tabs) => {
       continue;
     }
 
+    // Skip execute on discarded tab
+    if (tab.discarded) {
+      return;
+    }
+
     chrome.tabs.executeScript(tab.id, {
       file: 'scripts/content.js',
       runAt: 'document_start',
