@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "google-sheets-tabs-on-top",
   "version": "0.0.0",
   "description": "Move Google Sheets tabs on top",
@@ -23,7 +24,7 @@
     "tab",
     "documents"
   ],
-  "author": "yamadashy",
+  "author": "yamadashy <koukun0120@gmail.com> (https://github.com/yamadashy)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yamadashy/google-sheets-tabs-on-top/issues"
@@ -48,6 +49,8 @@
     "@typescript-eslint/parser": "^3.7.0",
     "babel-loader": "^8.0.6",
     "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1",
     "fork-ts-checker-webpack-plugin": "^5.0.11",
     "typescript": "^3.7.5",
     "typesync": "^0.7.0",
