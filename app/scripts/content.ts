@@ -1,7 +1,7 @@
 import SheetTabsMoverFactory from './content/sheet-tabs-mover-factory';
 import SheetTabsMover from './content/sheet-tabs-mover-interface';
 
-(async(): Promise<void> => {
+(async (): Promise<void> => {
   const sheetTabsMoverFactory = new SheetTabsMoverFactory();
   const sheetTabsMover: SheetTabsMover | null = sheetTabsMoverFactory.create();
 

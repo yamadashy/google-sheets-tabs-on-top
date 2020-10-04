@@ -5,7 +5,7 @@ import SheetTabsMover from './sheet-tabs-mover-interface';
 export default class SheetTabsMoverFactory {
   public create(): SheetTabsMover | null {
     let sheetTabsMover: SheetTabsMover = null;
-    const locationPathPieces = location.pathname.split('/');
+    const locationPathPieces = window.location.pathname.split('/');
 
     if (locationPathPieces.includes('edit')) {
       sheetTabsMover = new EditableSheetTabsMover();
