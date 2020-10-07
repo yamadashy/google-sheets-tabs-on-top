@@ -20,4 +20,3 @@ chrome.tabs.query({}, (tabs) => {
     });
   }
 });
-
