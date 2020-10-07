@@ -10,7 +10,7 @@
 - Edge: [Google Sheets tabs on top – Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/ecnahjcplfdahhoemcapljecnappncpm)
 
 # Development
-- Node.js v10.16.0
+- Node.js >= v10
 
 ## Setup
 ```
