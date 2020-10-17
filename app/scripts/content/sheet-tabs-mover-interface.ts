@@ -1,5 +1,5 @@
 export default interface SheetTabsMover {
   alreadyAppliedExtension(): boolean;
-  waitRenderTabs(): Promise<void>;
+  waitTabsRender(): Promise<void>;
   moveToTop(): void;
 }

@@ -5,16 +5,22 @@ import SheetTabsMover from './content/sheet-tabs-mover-interface';
   const sheetTabsMoverFactory = new SheetTabsMoverFactory();
   const sheetTabsMover: SheetTabsMover | null = sheetTabsMoverFactory.create();
 
+  // Skip if not supported
   if (sheetTabsMover === null) {
     return;
   }
 
-  await sheetTabsMover.waitRenderTabs();
+  sheetTabsMover
+    .waitTabsRender()
+    .then(() => {
+      // already applied
+      if (sheetTabsMover.alreadyAppliedExtension()) {
+        return;
+      }
 
-  // already applied
-  if (sheetTabsMover.alreadyAppliedExtension()) {
-    return;
-  }
-
-  sheetTabsMover.moveToTop();
+      sheetTabsMover.moveToTop();
+    })
+    .catch(() => {
+      // Do nothing
+    });
 })();
