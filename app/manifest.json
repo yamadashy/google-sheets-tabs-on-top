@@ -15,7 +15,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://docs.google.com/spreadsheets/*/*"
+        "https://docs.google.com/spreadsheets/*"
       ],
       "js": [
         "scripts/content.js"
@@ -30,6 +30,6 @@
     ]
   },
   "permissions": [
-    "https://docs.google.com/spreadsheets/*/*"
+    "https://docs.google.com/spreadsheets/*"
   ]
 }
