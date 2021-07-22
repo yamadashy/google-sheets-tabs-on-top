@@ -7,8 +7,5 @@
   },
   "appDescription": {
     "message": "スプレッドシートのタブを上に表示する拡張機能"
-  },
-  "browserActionTitle": {
-    "message": "Google Sheets Tabs on Top"
   }
 }
