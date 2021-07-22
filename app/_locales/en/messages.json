@@ -1,14 +1,11 @@
 {
   "appName": {
-    "message": "Google Sheets Tabs on Top"
+    "message": "Sheet tabs on top for Google Sheets"
   },
   "appShortName": {
     "message": "google-sheets-tabs-on-top"
   },
   "appDescription": {
     "message": "Move Google Sheets tabs on top"
-  },
-  "browserActionTitle": {
-    "message": "Google Sheets Tabs on Top"
   }
 }

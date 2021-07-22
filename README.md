@@ -4,10 +4,10 @@
 
 ## Install
 
-- Chrome: [Google Sheets tabs on top - Chrome Web Store](https://chrome.google.com/webstore/detail/sheets-tabs-on-top/lbhlhhckfpdpafckdiklcbamkmogjdjc)
-- Firefox: [Google Sheets tabs on top – Firefox Add-ons](https://addons.mozilla.org/firefox/addon/google-sheets-tabs-on-top/)
-- Opera: [Google Sheets tabs on top extension - Opera add-ons](https://addons.opera.com/extensions/details/google-sheets-tabs-on-top/)
-- Edge: [Google Sheets tabs on top – Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/ecnahjcplfdahhoemcapljecnappncpm)
+- Chrome: [Sheet tabs on top for Google Sheets - Chrome Web Store](https://chrome.google.com/webstore/detail/sheets-tabs-on-top/lbhlhhckfpdpafckdiklcbamkmogjdjc)
+- Firefox: [Sheet tabs on top for Google Sheets – Firefox Add-ons](https://addons.mozilla.org/firefox/addon/google-sheets-tabs-on-top/)
+- Opera: [Sheet tabs on top for Google Sheets extension - Opera add-ons](https://addons.opera.com/extensions/details/google-sheets-tabs-on-top/)
+- Edge: [Sheet tabs on top for Google Sheets – Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/ecnahjcplfdahhoemcapljecnappncpm)
 
 # Development
 - Node.js >= v10
