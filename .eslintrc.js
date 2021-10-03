@@ -26,6 +26,9 @@ module.exports = {
     'sourceType': 'module',
     'project': './tsconfig.json'
   },
+  ignorePatterns: [
+    '**/*.js',
+  ],
   rules: {
     'prettier/prettier': 'warn',
 
