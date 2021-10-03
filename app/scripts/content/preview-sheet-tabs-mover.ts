@@ -6,6 +6,7 @@ const TABLE_BODY_SELECTOR = '#sheets-viewport table tbody';
 const CELLS_CONTAINER_SELECTOR = 'tr:nth-child(1)';
 const TABS_CONTAINER_SELECTOR = 'tr:nth-child(2)';
 const WAIT_TABS_RENDER_TIMEOUT = 1000 * 30;
+const WAIT_TABS_RENDER_INTERVAL = 20;
 
 export default class PreviewSheetTabsMover implements SheetTabsMover {
   alreadyAppliedExtension(): boolean {
@@ -14,7 +15,7 @@ export default class PreviewSheetTabsMover implements SheetTabsMover {
   }
 
   waitTabsRender(): Promise<void> {
-    return waitElementRender(TABLE_BODY_SELECTOR, WAIT_TABS_RENDER_TIMEOUT);
+    return waitElementRender(TABLE_BODY_SELECTOR, WAIT_TABS_RENDER_INTERVAL, WAIT_TABS_RENDER_TIMEOUT);
   }
 
   moveToTop(): void {

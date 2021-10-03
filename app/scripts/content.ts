@@ -2,6 +2,8 @@ import SheetTabsMoverFactory from './content/sheet-tabs-mover-factory';
 import SheetTabsMover from './content/sheet-tabs-mover-interface';
 import { isAlreadyRunningExtension } from './content/utils/extension-running-checker';
 
+const RUNNING_CHECK_IDENTIFIER = 'google-sheets-tabs-on-top';
+
 (async (): Promise<void> => {
   const sheetTabsMoverFactory = new SheetTabsMoverFactory();
   const sheetTabsMover: SheetTabsMover | null = sheetTabsMoverFactory.create();
@@ -15,7 +17,7 @@ import { isAlreadyRunningExtension } from './content/utils/extension-running-che
     .waitTabsRender()
     .then(() => {
       // Check already running extension
-      if (isAlreadyRunningExtension()) {
+      if (isAlreadyRunningExtension(RUNNING_CHECK_IDENTIFIER)) {
         return;
       }
 

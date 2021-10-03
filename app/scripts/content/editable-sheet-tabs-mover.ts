@@ -5,6 +5,7 @@ const APPLIED_EXTENSION_FLAG_ATTRIBUTE_NAME = 'data-google-sheets-tabs-on-top-ap
 const GRID_BOTTOM_BAR_ID = 'grid-bottom-bar';
 const EDITOR_CONTAINER_ID = 'docs-editor-container';
 const WAIT_TABS_RENDER_TIMEOUT = 1000 * 30;
+const WAIT_TABS_RENDER_INTERVAL = 20;
 
 export default class EditableSheetTabsMover implements SheetTabsMover {
   alreadyAppliedExtension(): boolean {
@@ -13,7 +14,7 @@ export default class EditableSheetTabsMover implements SheetTabsMover {
   }
 
   waitTabsRender(): Promise<void> {
-    return waitElementRender(`#${GRID_BOTTOM_BAR_ID}`, WAIT_TABS_RENDER_TIMEOUT);
+    return waitElementRender(`#${GRID_BOTTOM_BAR_ID}`, WAIT_TABS_RENDER_INTERVAL, WAIT_TABS_RENDER_TIMEOUT);
   }
 
   moveToTop(): void {
