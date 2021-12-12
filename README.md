@@ -2,6 +2,10 @@
 
 ![](./promo/Screenshot_1280x800.png)
 
+
+[![Chrome Users](https://img.shields.io/chrome-web-store/users/lbhlhhckfpdpafckdiklcbamkmogjdjc?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/google-sheets-tabs-on-top/lbhlhhckfpdpafckdiklcbamkmogjdjc)   [![Firefox Users](https://img.shields.io/amo/users/google-sheets-tabs-on-top?logo=firefox&color=blightcreen)](https://addons.mozilla.org/ja/firefox/addon/google-sheets-tabs-on-top/)   [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/lbhlhhckfpdpafckdiklcbamkmogjdjc?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/google-sheets-tabs-on-top/lbhlhhckfpdpafckdiklcbamkmogjdjc)   [![Mozilla Add-on](https://img.shields.io/amo/v/google-sheets-tabs-on-top?logo=firefox)](https://addons.mozilla.org/ja/firefox/addon/google-sheets-tabs-on-top/)
+
+
 ## Install
 
 - Chrome: [Sheet tabs on top for Google Sheets - Chrome Web Store](https://chrome.google.com/webstore/detail/sheets-tabs-on-top/lbhlhhckfpdpafckdiklcbamkmogjdjc)
