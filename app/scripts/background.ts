@@ -13,10 +13,12 @@ chrome.tabs.query({}, (tabs) => {
       return;
     }
 
-    chrome.tabs.executeScript(tab.id, {
-      file: 'scripts/content.js',
-      runAt: 'document_start',
-      allFrames: true,
+    chrome.scripting.executeScript({
+      target: {
+        tabId: tab.id,
+        allFrames: true,
+      },
+      files: ['scripts/content.js'],
     });
   }
 });

@@ -21,7 +21,10 @@ module.exports = {
     // Loader
     config.module.rules.push({
       test: /\.ts$/,
-      loader: 'babel-loader?cacheDirectory',
+      loader: 'babel-loader',
+      options: {
+        cacheDirectory: true
+      }
     });
 
     // Runs typescript type checker on a separate process.

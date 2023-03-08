@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "__MSG_appName__",
   "short_name": "__MSG_appShortName__",
   "description": "__MSG_appDescription__",
@@ -25,11 +25,12 @@
     }
   ],
   "background": {
-    "scripts": [
-      "scripts/background.js"
-    ]
+    "service_worker": "scripts/background.js"
   },
   "permissions": [
+    "scripting"
+  ],
+  "host_permissions": [
     "https://docs.google.com/spreadsheets/*"
   ]
 }
