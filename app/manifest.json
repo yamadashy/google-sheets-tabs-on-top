@@ -11,7 +11,7 @@
     "48": "images/icon-48.png",
     "128": "images/icon-128.png"
   },
-  "minimum_chrome_version": "47.0",
+  "minimum_chrome_version": "88.0",
   "content_scripts": [
     {
       "matches": [
