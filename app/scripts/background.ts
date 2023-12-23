@@ -13,6 +13,11 @@ chrome.tabs.query({}, (tabs) => {
       return;
     }
 
+    // Under some circumstances a Tab may not be assigned an ID
+    if (tab.id === undefined) {
+      continue;
+    }
+
     chrome.scripting.executeScript({
       target: {
         tabId: tab.id,

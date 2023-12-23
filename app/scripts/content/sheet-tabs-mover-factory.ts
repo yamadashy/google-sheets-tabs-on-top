@@ -4,7 +4,7 @@ import SheetTabsMover from './sheet-tabs-mover-interface';
 
 export default class SheetTabsMoverFactory {
   public create(): SheetTabsMover | null {
-    let sheetTabsMover: SheetTabsMover = null;
+    let sheetTabsMover: SheetTabsMover | null = null;
     const locationPathPieces = window.location.pathname.split('/');
 
     if (locationPathPieces.includes('edit') || locationPathPieces.includes('create')) {
