@@ -10,6 +10,9 @@ const WAIT_TABS_RENDER_INTERVAL = 20;
 export default class EditableSheetTabsMover implements SheetTabsMover {
   alreadyAppliedExtension(): boolean {
     const editorContainer = document.getElementById(EDITOR_CONTAINER_ID);
+    if (!editorContainer) {
+      return false;
+    }
     return editorContainer.getAttribute(APPLIED_EXTENSION_FLAG_ATTRIBUTE_NAME) === '1';
   }
 

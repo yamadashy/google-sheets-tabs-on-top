@@ -11,6 +11,9 @@ const WAIT_TABS_RENDER_INTERVAL = 20;
 export default class PreviewSheetTabsMover implements SheetTabsMover {
   alreadyAppliedExtension(): boolean {
     const tableBody = document.querySelector(TABLE_BODY_SELECTOR);
+    if (!tableBody) {
+      return false;
+    }
     return tableBody.getAttribute(APPLIED_EXTENSION_FLAG_ATTRIBUTE_NAME) === '1';
   }
 
@@ -20,6 +23,10 @@ export default class PreviewSheetTabsMover implements SheetTabsMover {
 
   moveToTop(): void {
     const tableBody = document.querySelector(TABLE_BODY_SELECTOR);
+    if (!tableBody) {
+      return;
+    }
+
     const cellsContainer = tableBody.querySelector(CELLS_CONTAINER_SELECTOR);
     const tabsContainer = tableBody.querySelector(TABS_CONTAINER_SELECTOR);
 
