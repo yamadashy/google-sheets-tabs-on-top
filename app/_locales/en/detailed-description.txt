@@ -1,4 +1,7 @@
-Move Google Sheets Tabs on top
+This extension enables smoother operation by displaying Google Sheets tabs at the top.
+By placing tabs at the top, it realizes intuitive navigation and supports the improvement of work efficiency with simple yet effective functions.
 
-This extension does not send the user's data anywhere. It's also completely open source.
-Source: https://github.com/yamadashy/sheets-tabs-on-top-extension
+The Goolge Sheets and other information will not be sent or disclosed to the developer or any third party.
+
+The source code is also available, and you can build and install it yourself.
+https://github.com/yamadashy/sheets-tabs-on-top-extension
