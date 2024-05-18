@@ -4,4 +4,4 @@
 スプレッドシートやその他の情報が開発者および第三者に送信されたり公開されたりする事はありません。
 
 ソースコードも公開されており、自身でビルドしてインストールすることも可能です。
-https://github.com/yamadashy/sheets-tabs-on-top-extension
+https://github.com/yamadashy/google-sheets-tabs-on-top
