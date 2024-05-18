@@ -11,7 +11,7 @@
     "lint:fix": "yarn lint --fix",
     "supported-browsers": "yarn browserslist",
     "archive": "git archive HEAD -o storage/source.zip",
-    "type-check": "tsc",
+    "type-check": "tsc --noEmit",
     "preinstall": "typesync || :"
   },
   "repository": {
