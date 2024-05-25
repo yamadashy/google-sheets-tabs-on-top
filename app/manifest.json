@@ -24,9 +24,6 @@
       "all_frames": true
     }
   ],
-  "background": {
-    "service_worker": "scripts/background.js"
-  },
   "permissions": [
     "scripting"
   ],

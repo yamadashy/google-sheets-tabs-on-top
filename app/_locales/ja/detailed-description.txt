@@ -5,3 +5,5 @@
 
 ソースコードも公開されており、自身でビルドしてインストールすることも可能です。
 https://github.com/yamadashy/google-sheets-tabs-on-top
+
+インストール後、スプレッドシートのページを再読み込みしてください。
