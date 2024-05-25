@@ -4,6 +4,7 @@ By placing tabs at the top, it realizes intuitive navigation and supports the im
 The Goolge Sheets and other information will not be sent or disclosed to the developer or any third party.
 
 The source code is also available, and you can build and install it yourself.
+For more details, please visit:
 https://github.com/yamadashy/google-sheets-tabs-on-top
 
 After installation, please refresh the Google Sheets page.
