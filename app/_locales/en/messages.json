@@ -6,6 +6,6 @@
     "message": "google-sheets-tabs-on-top"
   },
   "appDescription": {
-    "message": "Move Google Sheets tabs on top"
+    "message": "Move Google Sheets tabs on top. After installation, please refresh the Google Sheets page."
   }
 }

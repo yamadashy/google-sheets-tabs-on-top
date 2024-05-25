@@ -6,6 +6,6 @@
     "message": "google-sheets-tabs-on-top"
   },
   "appDescription": {
-    "message": "スプレッドシートのタブを上に表示する拡張機能"
+    "message": "スプレッドシートのタブを上に表示します。インストール後、スプレッドシートのページを再読み込みしてください。"
   }
 }
