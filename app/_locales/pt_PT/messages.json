@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Google Sheets Tabs on top"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "Mova os separadores das Folhas de cálculo Google para o topo. Após a instalação, atualize a página das Folhas de cálculo Google."
+  }
+}

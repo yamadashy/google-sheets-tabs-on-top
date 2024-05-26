@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Google Sheets Tabs on top"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "Mova as abas do Google Sheets para o topo. Após a instalação, atualize a página do Google Sheets."
+  }
+}

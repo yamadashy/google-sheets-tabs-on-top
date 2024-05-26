@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Google Sheets Tabs on top"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "将 Google 表格选项卡移至顶部。安装后，请刷新 Google 表格页面。"
+  }
+}
