@@ -101,5 +101,5 @@
     "node": ">=10",
     "yarn": ">=4.0.0"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
