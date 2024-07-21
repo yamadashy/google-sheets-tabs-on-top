@@ -41,19 +41,10 @@ yarn build safari
 ```
 
 ### Lint codes
-Lint only.
+Lint
 ```
+# eslint, tsc --noEmit
 yarn lint
-```
-
-Lint codes with fix.
-```
-yarn lint:fix
-```
-
-### Type Checking
-```
-yarn type-check
 ```
 
 ### Show supported browsers

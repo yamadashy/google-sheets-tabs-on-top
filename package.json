@@ -7,11 +7,9 @@
   "scripts": {
     "dev": "webextension-toolbox dev",
     "build": "webextension-toolbox build",
-    "lint": "eslint ./app --max-warnings 0 --cache --format friendly",
-    "lint:fix": "yarn lint --fix",
+    "lint": "eslint ./app --max-warnings 0 --cache --fix && tsc --noEmit",
     "supported-browsers": "yarn browserslist",
     "archive": "git archive HEAD -o storage/source.zip",
-    "type-check": "tsc --noEmit",
     "preinstall": "typesync || :"
   },
   "repository": {
