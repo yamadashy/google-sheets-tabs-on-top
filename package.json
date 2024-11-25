@@ -59,7 +59,7 @@
     "eslint-plugin-prettier": "^5.2.1",
     "globals": "^15.12.0",
     "prettier": "^3.3.3",
-    "renovate": "^37.440.7",
+    "renovate": "^39.28.0",
     "typescript": "^5.7.2",
     "typesync": "^0.13.4",
     "webpack-bundle-analyzer": "^4.10.2"
