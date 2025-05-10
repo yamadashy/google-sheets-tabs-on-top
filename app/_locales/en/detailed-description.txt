@@ -1,10 +1,28 @@
-This extension enables smoother operation by displaying Google Sheets tabs at the top.
-By placing tabs at the top, it realizes intuitive navigation and supports the improvement of work efficiency with simple yet effective functions.
+This extension moves Google Sheets tabs from the bottom to the top of the interface, enabling more intuitive navigation and smoother operation.
 
-The Goolge Sheets and other information will not be sent or disclosed to the developer or any third party.
+🛠️ Features:
+- Repositions sheet tabs from bottom to top for better usability
+- Provides a more intuitive tab interface similar to browser tabs
+- Works in both editable and preview modes of Google Sheets
+- Simple implementation with no performance impact
+- Supports all Google Sheets functionality
 
-The source code is also available, and you can build and install it yourself.
+🚀 How to Use:
+1. Install the extension
+2. Refresh your Google Sheets page
+3. The tabs will automatically appear at the top of the interface
+4. Enjoy a more intuitive spreadsheet experience!
+
+⚠️ Note:
+This is an unofficial extension and is not affiliated with Google. It simply enhances the Google Sheets interface by repositioning the tabs for better usability.
+
+🔒 Privacy:
+- No data collection
+- No tracking
+- No authentication required
+- Your spreadsheet data is never sent to the developer or third parties
+- Only requires access to Google Sheets pages to reposition tabs
+
+💻 The source code is also available, and you can build and install it yourself.
 For more details, please visit:
 https://github.com/yamadashy/google-sheets-tabs-on-top
-
-After installation, please refresh the Google Sheets page.

@@ -1,10 +1,28 @@
-Esta extensão permite uma operação mais suave ao exibir as guias do Google Sheets na parte superior.
-Ao colocar as guias na parte superior, ela oferece uma navegação intuitiva e apoia a melhoria da eficiência do trabalho com funções simples, porém eficazes.
+Esta extensão move as guias do Google Sheets da parte inferior para a parte superior da interface, permitindo uma navegação mais intuitiva e uma operação mais suave.
 
-As informações do Google Sheets e outras não serão enviadas ou divulgadas ao desenvolvedor ou a terceiros.
+🛠️ Recursos:
+- Reposiciona as guias de planilhas de baixo para cima para melhor usabilidade
+- Fornece uma interface de guias mais intuitiva, semelhante às guias do navegador
+- Funciona tanto no modo editável quanto no modo de visualização do Google Sheets
+- Implementação simples sem impacto no desempenho
+- Suporta todas as funcionalidades do Google Sheets
 
-O código-fonte também está disponível e você pode compilar e instalar você mesmo.
+🚀 Como usar:
+1. Instale a extensão
+2. Atualize sua página do Google Sheets
+3. As guias aparecerão automaticamente na parte superior da interface
+4. Aproveite uma experiência de planilha mais intuitiva!
+
+⚠️ Observação:
+Esta é uma extensão não oficial e não está afiliada ao Google. Ela simplesmente melhora a interface do Google Sheets reposicionando as guias para melhor usabilidade.
+
+🔒 Privacidade:
+- Sem coleta de dados
+- Sem rastreamento
+- Sem necessidade de autenticação
+- Seus dados de planilha nunca são enviados ao desenvolvedor ou terceiros
+- Requer acesso apenas às páginas do Google Sheets para reposicionar as guias
+
+💻 O código-fonte também está disponível e você pode compilar e instalar você mesmo.
 Para mais detalhes, visite:
 https://github.com/yamadashy/google-sheets-tabs-on-top
-
-Após a instalação, atualize a página do Google Sheets.
