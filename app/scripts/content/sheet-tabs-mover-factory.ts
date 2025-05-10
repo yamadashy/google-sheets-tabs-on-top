@@ -1,6 +1,6 @@
 import EditableSheetTabsMover from './editable-sheet-tabs-mover';
 import PreviewSheetTabsMover from './preview-sheet-tabs-mover';
-import SheetTabsMover from './sheet-tabs-mover-interface';
+import type SheetTabsMover from './sheet-tabs-mover-interface';
 
 export default class SheetTabsMoverFactory {
   public create(): SheetTabsMover | null {
