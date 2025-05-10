@@ -8,9 +8,8 @@
     "dev": "webextension-toolbox dev",
     "build": "webextension-toolbox build",
     "lint": "eslint ./app --max-warnings 0 --cache --fix && tsc --noEmit",
-    "supported-browsers": "yarn browserslist",
-    "archive": "git archive HEAD -o storage/source.zip",
-    "preinstall": "typesync || :"
+    "supported-browsers": "npx browserslist",
+    "archive": "git archive HEAD -o storage/source.zip"
   },
   "repository": {
     "type": "git",
@@ -61,7 +60,6 @@
     "prettier": "^3.5.3",
     "renovate": "^40.3.4",
     "typescript": "^5.8.3",
-    "typesync": "^0.14.3",
     "webpack-bundle-analyzer": "^4.10.2"
   },
   "babel": {
@@ -96,8 +94,6 @@
     "quoteProps": "consistent"
   },
   "engines": {
-    "node": ">=23.6.0",
-    "yarn": ">=4.9.1"
-  },
-  "packageManager": "yarn@4.9.1"
+    "node": ">=23.6.0"
+  }
 }
