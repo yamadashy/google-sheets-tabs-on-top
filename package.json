@@ -9,7 +9,7 @@
     "build": "webextension-toolbox build",
     "build-all": "npm run build chrome && npm run build firefox && npm run build edge",
     "lint": "npm run lint-biome && npm run lint-secretlint",
-    "lint-biome": "biome check --write ./app",
+    "lint-biome": "biome check ./app",
     "lint-secretlint": "secretlint \"**/*\" --secretlintignore .gitignore",
     "archive": "git archive HEAD -o storage/source.zip"
   },
