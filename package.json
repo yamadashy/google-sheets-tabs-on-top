@@ -8,7 +8,7 @@
     "dev": "webextension-toolbox dev",
     "build": "webextension-toolbox build",
     "lint": "eslint ./app --max-warnings 0 --cache --fix && tsc --noEmit",
-    "supported-browsers": "yarn browserslist",
+    "supported-browsers": "npx browserslist",
     "archive": "git archive HEAD -o storage/source.zip",
     "preinstall": "typesync || :"
   },
@@ -96,8 +96,6 @@
     "quoteProps": "consistent"
   },
   "engines": {
-    "node": ">=23.6.0",
-    "yarn": ">=4.9.1"
-  },
-  "packageManager": "yarn@4.9.1"
+    "node": ">=23.6.0"
+  }
 }
