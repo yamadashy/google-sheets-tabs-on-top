@@ -15,7 +15,7 @@ Move Google Sheets tabs on top.
 - Edge: [Google Sheets Tabs on top – Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/ecnahjcplfdahhoemcapljecnappncpm)
 
 ## Development
-- Node.js >= v23.6.0
+- Node.js >= v24.0.1
 
 ### Setup
 ```
