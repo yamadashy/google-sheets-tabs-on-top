@@ -1,0 +1,28 @@
+Deze extensie verplaatst Google Sheets-tabbladen van de onderkant naar de bovenkant van de interface, waardoor intuïtievere navigatie en soepelere bediening mogelijk wordt.
+
+🛠️ Functies:
+- Herpositioneert werkbladtabbladen van onder naar boven voor betere bruikbaarheid
+- Biedt een intuïtievere tabblad-interface vergelijkbaar met browsertabbladen
+- Werkt zowel in bewerkbare als voorbeeldmodi van Google Sheets
+- Eenvoudige implementatie zonder prestatie-impact
+- Ondersteunt alle Google Sheets-functionaliteit
+
+🚀 Hoe te gebruiken:
+1. Installeer de extensie
+2. Vernieuw je Google Sheets-pagina
+3. De tabbladen verschijnen automatisch bovenaan de interface
+4. Geniet van een intuïtievere spreadsheet-ervaring!
+
+⚠️ Opmerking:
+Dit is een onofficiële extensie en is niet gelieerd aan Google. Het verbetert simpelweg de Google Sheets-interface door de tabbladen te herpositioneren voor betere bruikbaarheid.
+
+🔒 Privacy:
+- Geen gegevensverzameling
+- Geen tracking
+- Geen authenticatie vereist
+- Je spreadsheetgegevens worden nooit verzonden naar de ontwikkelaar of derden
+- Vereist alleen toegang tot Google Sheets-pagina's om tabbladen te herpositioneren
+
+💻 De broncode is ook beschikbaar, en je kunt het zelf bouwen en installeren.
+Voor meer details, bezoek:
+https://github.com/yamadashy/google-sheets-tabs-on-top

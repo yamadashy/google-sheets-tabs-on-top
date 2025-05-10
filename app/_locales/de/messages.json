@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Google Sheets Tabs oben"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "Verschieben Sie Google Sheets-Tabs nach oben für eine intuitivere Navigation. Nach der Installation aktualisieren Sie bitte die Google Sheets-Seite."
+  }
+}

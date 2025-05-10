@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Καρτέλες Google Sheets στην κορυφή"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "Μετακινήστε τις καρτέλες του Google Sheets στην κορυφή για πιο διαισθητική πλοήγηση. Μετά την εγκατάσταση, ανανεώστε τη σελίδα του Google Sheets."
+  }
+}

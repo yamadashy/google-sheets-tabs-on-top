@@ -1,0 +1,28 @@
+Cette extension déplace les onglets de Google Sheets du bas vers le haut de l'interface, permettant une navigation plus intuitive et un fonctionnement plus fluide.
+
+🛠️ Fonctionnalités:
+- Repositionne les onglets de feuilles du bas vers le haut pour une meilleure utilisabilité
+- Fournit une interface d'onglets plus intuitive similaire aux onglets du navigateur
+- Fonctionne à la fois en mode éditable et en mode aperçu de Google Sheets
+- Implémentation simple sans impact sur les performances
+- Prend en charge toutes les fonctionnalités de Google Sheets
+
+🚀 Comment utiliser:
+1. Installez l'extension
+2. Actualisez votre page Google Sheets
+3. Les onglets apparaîtront automatiquement en haut de l'interface
+4. Profitez d'une expérience de feuille de calcul plus intuitive!
+
+⚠️ Remarque:
+Il s'agit d'une extension non officielle et n'est pas affiliée à Google. Elle améliore simplement l'interface Google Sheets en repositionnant les onglets pour une meilleure utilisabilité.
+
+🔒 Confidentialité:
+- Aucune collecte de données
+- Aucun suivi
+- Aucune authentification requise
+- Vos données de feuille de calcul ne sont jamais envoyées au développeur ou à des tiers
+- Nécessite uniquement l'accès aux pages Google Sheets pour repositionner les onglets
+
+💻 Le code source est également disponible, et vous pouvez le compiler et l'installer vous-même.
+Pour plus de détails, veuillez visiter:
+https://github.com/yamadashy/google-sheets-tabs-on-top

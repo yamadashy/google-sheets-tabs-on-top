@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Google Sheets-tabbladen bovenaan"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "Verplaats Google Sheets-tabbladen naar de bovenkant voor intuïtievere navigatie. Na installatie, vernieuw de Google Sheets-pagina."
+  }
+}

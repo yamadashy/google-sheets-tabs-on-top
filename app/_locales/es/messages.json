@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Pestañas de Google Sheets arriba"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "Mueve las pestañas de Google Sheets a la parte superior para una navegación más intuitiva. Después de la instalación, actualiza la página de Google Sheets."
+  }
+}
