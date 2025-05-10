@@ -1,10 +1,28 @@
-Esta extensão permite uma operação mais suave ao exibir os separadores das Folhas de cálculo Google no topo.
-Ao colocar os separadores no topo, oferece uma navegação intuitiva e apoia a melhoria da eficiência do trabalho com funções simples, porém eficazes.
+Esta extensão move os separadores das Folhas de cálculo Google da parte inferior para o topo da interface, permitindo uma navegação mais intuitiva e uma operação mais suave.
 
-As informações das Folhas de cálculo Google e outras não serão enviadas ou divulgadas ao programador ou a terceiros.
+🛠️ Funcionalidades:
+- Reposiciona os separadores das folhas de baixo para cima para melhor usabilidade
+- Fornece uma interface de separadores mais intuitiva, semelhante aos separadores do navegador
+- Funciona tanto no modo editável como no modo de pré-visualização das Folhas de cálculo Google
+- Implementação simples sem impacto no desempenho
+- Suporta todas as funcionalidades das Folhas de cálculo Google
 
-O código-fonte também está disponível e pode compilar e instalar você mesmo.
+🚀 Como utilizar:
+1. Instale a extensão
+2. Atualize a sua página das Folhas de cálculo Google
+3. Os separadores aparecerão automaticamente no topo da interface
+4. Desfrute de uma experiência de folha de cálculo mais intuitiva!
+
+⚠️ Nota:
+Esta é uma extensão não oficial e não está afiliada à Google. Simplesmente melhora a interface das Folhas de cálculo Google ao reposicionar os separadores para melhor usabilidade.
+
+🔒 Privacidade:
+- Sem recolha de dados
+- Sem rastreamento
+- Sem necessidade de autenticação
+- Os seus dados de folha de cálculo nunca são enviados ao programador ou terceiros
+- Requer acesso apenas às páginas das Folhas de cálculo Google para reposicionar os separadores
+
+💻 O código-fonte também está disponível e pode compilar e instalar você mesmo.
 Para mais detalhes, visite:
 https://github.com/yamadashy/google-sheets-tabs-on-top
-
-Após a instalação, atualize a página das Folhas de cálculo Google.
