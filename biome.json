@@ -33,13 +33,6 @@
       "semicolons": "always"
     }
   },
-  "typescript": {
-    "formatter": {
-      "quoteStyle": "single",
-      "trailingCommas": "all",
-      "semicolons": "always"
-    }
-  },
   "json": {
     "parser": {
       "allowComments": true,
