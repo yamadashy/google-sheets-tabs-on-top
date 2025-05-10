@@ -2,13 +2,12 @@
   "$schema": "https://biomejs.dev/schemas/1.8.3/schema.json",
   "files": {
     "include": [
-      "app/**/*.{js,ts}"
+      "app/scripts/**/*.js",
+      "app/scripts/**/*.ts"
     ],
     "ignore": [
-      "website/client/.vitepress/.temp",
-      "website/client/.vitepress/dist",
-      "website/client/.vitepress/cache",
-      "website/server/dist"
+      "node_modules",
+      "dist"
     ]
   },
   "organizeImports": {
