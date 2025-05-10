@@ -96,7 +96,7 @@
     "quoteProps": "consistent"
   },
   "engines": {
-    "node": ">=10",
+    "node": ">=23.6.0",
     "yarn": ">=4.9.1"
   },
   "packageManager": "yarn@4.9.1"
