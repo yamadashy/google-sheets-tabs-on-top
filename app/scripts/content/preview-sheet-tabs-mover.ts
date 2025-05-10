@@ -1,4 +1,4 @@
-import SheetTabsMover from './sheet-tabs-mover-interface';
+import type SheetTabsMover from './sheet-tabs-mover-interface';
 import { waitElementRender } from './utils/wait-element-render';
 
 const APPLIED_EXTENSION_FLAG_ATTRIBUTE_NAME = 'data-google-sheets-tabs-on-top-applied';

@@ -1,5 +1,5 @@
 import SheetTabsMoverFactory from './content/sheet-tabs-mover-factory';
-import SheetTabsMover from './content/sheet-tabs-mover-interface';
+import type SheetTabsMover from './content/sheet-tabs-mover-interface';
 import { isAlreadyRunningExtension } from './content/utils/extension-running-checker';
 
 const RUNNING_CHECK_IDENTIFIER = 'google-sheets-tabs-on-top';
