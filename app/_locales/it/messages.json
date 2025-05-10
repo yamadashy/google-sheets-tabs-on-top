@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Schede di Google Sheets in alto"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "Sposta le schede di Google Sheets in alto per una navigazione più intuitiva. Dopo l'installazione, aggiorna la pagina di Google Sheets."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Onglets Google Sheets en haut"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "Déplacez les onglets Google Sheets vers le haut pour une navigation plus intuitive. Après l'installation, veuillez actualiser la page Google Sheets."
+  }
+}

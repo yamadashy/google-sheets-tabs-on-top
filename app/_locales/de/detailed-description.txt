@@ -1,0 +1,28 @@
+Diese Erweiterung verschiebt die Tabs von Google Sheets von unten nach oben in der Benutzeroberfläche, was eine intuitivere Navigation und reibungslosere Bedienung ermöglicht.
+
+🛠️ Funktionen:
+- Positioniert Sheet-Tabs von unten nach oben für bessere Benutzerfreundlichkeit
+- Bietet eine intuitivere Tab-Oberfläche ähnlich wie Browser-Tabs
+- Funktioniert sowohl im bearbeitbaren als auch im Vorschaumodus von Google Sheets
+- Einfache Implementierung ohne Leistungseinbußen
+- Unterstützt alle Google Sheets-Funktionen
+
+🚀 Verwendung:
+1. Installieren Sie die Erweiterung
+2. Aktualisieren Sie Ihre Google Sheets-Seite
+3. Die Tabs erscheinen automatisch oben in der Benutzeroberfläche
+4. Genießen Sie eine intuitivere Tabellenkalkulationserfahrung!
+
+⚠️ Hinweis:
+Dies ist eine inoffizielle Erweiterung und ist nicht mit Google verbunden. Sie verbessert lediglich die Google Sheets-Oberfläche, indem sie die Tabs für eine bessere Benutzerfreundlichkeit neu positioniert.
+
+🔒 Datenschutz:
+- Keine Datenerfassung
+- Kein Tracking
+- Keine Authentifizierung erforderlich
+- Ihre Tabellendaten werden niemals an den Entwickler oder Dritte gesendet
+- Benötigt nur Zugriff auf Google Sheets-Seiten, um Tabs neu zu positionieren
+
+💻 Der Quellcode ist ebenfalls verfügbar, und Sie können ihn selbst erstellen und installieren.
+Weitere Informationen finden Sie unter:
+https://github.com/yamadashy/google-sheets-tabs-on-top

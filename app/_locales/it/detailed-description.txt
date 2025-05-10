@@ -1,0 +1,28 @@
+Questa estensione sposta le schede di Google Sheets dalla parte inferiore alla parte superiore dell'interfaccia, consentendo una navigazione più intuitiva e un funzionamento più fluido.
+
+🛠️ Caratteristiche:
+- Riposiziona le schede dei fogli dal basso verso l'alto per una migliore usabilità
+- Fornisce un'interfaccia a schede più intuitiva simile alle schede del browser
+- Funziona sia in modalità modificabile che in modalità anteprima di Google Sheets
+- Implementazione semplice senza impatto sulle prestazioni
+- Supporta tutte le funzionalità di Google Sheets
+
+🚀 Come usare:
+1. Installa l'estensione
+2. Aggiorna la tua pagina di Google Sheets
+3. Le schede appariranno automaticamente nella parte superiore dell'interfaccia
+4. Goditi un'esperienza di foglio di calcolo più intuitiva!
+
+⚠️ Nota:
+Questa è un'estensione non ufficiale e non è affiliata con Google. Semplicemente migliora l'interfaccia di Google Sheets riposizionando le schede per una migliore usabilità.
+
+🔒 Privacy:
+- Nessuna raccolta di dati
+- Nessun tracciamento
+- Nessuna autenticazione richiesta
+- I tuoi dati del foglio di calcolo non vengono mai inviati allo sviluppatore o a terze parti
+- Richiede solo l'accesso alle pagine di Google Sheets per riposizionare le schede
+
+💻 Il codice sorgente è anche disponibile, e puoi compilarlo e installarlo tu stesso.
+Per maggiori dettagli, visita:
+https://github.com/yamadashy/google-sheets-tabs-on-top

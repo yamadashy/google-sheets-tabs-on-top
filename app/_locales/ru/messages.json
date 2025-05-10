@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Вкладки Google Таблиц сверху"
+  },
+  "appShortName": {
+    "message": "google-sheets-tabs-on-top"
+  },
+  "appDescription": {
+    "message": "Переместите вкладки Google Таблиц наверх для более интуитивной навигации. После установки обновите страницу Google Таблиц."
+  }
+}

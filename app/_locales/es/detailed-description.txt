@@ -1,0 +1,28 @@
+Esta extensión mueve las pestañas de Google Sheets desde la parte inferior a la parte superior de la interfaz, permitiendo una navegación más intuitiva y una operación más fluida.
+
+🛠️ Características:
+- Reposiciona las pestañas de hojas de cálculo de abajo hacia arriba para una mejor usabilidad
+- Proporciona una interfaz de pestañas más intuitiva similar a las pestañas del navegador
+- Funciona tanto en modos editables como de vista previa de Google Sheets
+- Implementación simple sin impacto en el rendimiento
+- Compatible con todas las funcionalidades de Google Sheets
+
+🚀 Cómo usar:
+1. Instala la extensión
+2. Actualiza tu página de Google Sheets
+3. Las pestañas aparecerán automáticamente en la parte superior de la interfaz
+4. ¡Disfruta de una experiencia de hoja de cálculo más intuitiva!
+
+⚠️ Nota:
+Esta es una extensión no oficial y no está afiliada con Google. Simplemente mejora la interfaz de Google Sheets reposicionando las pestañas para una mejor usabilidad.
+
+🔒 Privacidad:
+- Sin recolección de datos
+- Sin seguimiento
+- No requiere autenticación
+- Tus datos de hoja de cálculo nunca se envían al desarrollador o a terceros
+- Solo requiere acceso a las páginas de Google Sheets para reposicionar las pestañas
+
+💻 El código fuente también está disponible, y puedes compilarlo e instalarlo tú mismo.
+Para más detalles, visita:
+https://github.com/yamadashy/google-sheets-tabs-on-top
