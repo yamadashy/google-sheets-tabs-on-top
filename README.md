@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app/images/icon-128.png" alt="Google Sheets Tabs on top" width="200" height="auto">
+  <img src="app/images/icon.png" alt="Google Sheets Tabs on top" width="200" height="auto">
   <h2>Google Sheets Tabs on top</h2>
   <p>
     <b>A browser extension that moves Google Sheets tabs from bottom to top for better usability</b>
