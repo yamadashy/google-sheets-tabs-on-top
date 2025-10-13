@@ -29,7 +29,7 @@
     "url": "https://github.com/yamadashy/google-sheets-tabs-on-top/issues"
   },
   "dependencies": {
-    "core-js": "3.45.1"
+    "core-js": "3.46.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.28.3",
@@ -38,11 +38,11 @@
     "@babel/preset-env": "^7.28.3",
     "@babel/preset-typescript": "^7.27.1",
     "@biomejs/biome": "1.9.4",
-    "secretlint": "^11.2.4",
-    "@secretlint/secretlint-rule-preset-recommend": "^11.2.4",
+    "secretlint": "^11.2.5",
+    "@secretlint/secretlint-rule-preset-recommend": "^11.2.5",
     "@types/babel__core": "^7.20.5",
     "@types/babel__preset-env": "^7.10.0",
-    "@types/chrome": "^0.1.22",
+    "@types/chrome": "^0.1.24",
     "@types/core-js": "2.5.8",
     "@types/jquery": "^3.5.33",
     "@types/webpack-bundle-analyzer": "^4.7.0",
