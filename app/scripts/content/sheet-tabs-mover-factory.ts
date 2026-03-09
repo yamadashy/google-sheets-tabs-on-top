@@ -7,7 +7,7 @@ export default class SheetTabsMoverFactory {
     let sheetTabsMover: SheetTabsMover | null = null;
     const locationPathPieces = window.location.pathname.split('/');
 
-    if (locationPathPieces.includes('edit') || locationPathPieces.includes('create')) {
+    if (locationPathPieces.includes('edit') || locationPathPieces.includes('create') || locationPathPieces.includes('grading')) {
       sheetTabsMover = new EditableSheetTabsMover();
     } else if (locationPathPieces.includes('preview')) {
       sheetTabsMover = new PreviewSheetTabsMover();
