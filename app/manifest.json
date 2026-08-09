@@ -23,5 +23,16 @@
       "run_at": "document_start",
       "all_frames": true
     }
-  ]
+  ],
+  "__firefox__browser_specific_settings": {
+    "gecko": {
+      "id": "{fc91428e-3df4-4e80-9365-d286e0352bbf}",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  }
 }
