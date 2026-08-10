@@ -29,7 +29,7 @@
     "url": "https://github.com/yamadashy/google-sheets-tabs-on-top/issues"
   },
   "dependencies": {
-    "core-js": "3.49.0"
+    "core-js": "3.50.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.29.7",
