@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img src="app/images/icon.png" alt="Google Sheets Tabs on top" width="200" height="auto">
   <h2>Google Sheets Tabs on top</h2>
@@ -66,7 +68,7 @@ npm run build safari
 ### Lint codes
 
 ```sh
-# eslint, tsc --noEmit
+# biome, secretlint
 npm run lint
 ```
 
