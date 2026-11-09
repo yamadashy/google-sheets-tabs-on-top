@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.29.7",
-    "@babel/core": "^7.29.7",
+    "@babel/core": "^7.29.13",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@babel/preset-env": "^7.29.7",
     "@babel/preset-typescript": "^7.29.7",
@@ -50,7 +50,7 @@
     "globals": "^17.14.0",
     "secretlint": "^13.1.0",
     "typescript": "^6.0.3",
-    "webpack-bundle-analyzer": "^5.4.0"
+    "webpack-bundle-analyzer": "^5.4.2"
   },
   "babel": {
     "presets": [
